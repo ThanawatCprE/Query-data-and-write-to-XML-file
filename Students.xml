@@ -1,0 +1,271 @@
+<Register-info>
+	<student-info>
+		<name>Anothai Arunthong</name>
+		<student-ID>5701012620047</Student-ID>
+		<subject-registed>
+			<subject-name>SOFTWARE ENGINEERING</subject-name>
+			<subject-ID>010123116</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>W</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Damrongrit Setsirichok</lecturer>
+		</subject-registed>
+		<subject-registed>
+			<subject-name>Project I</subject-name>
+			<subject-ID>040313007</subject-ID>
+			<weight>3</weight>
+			<date>315</date>
+			<classroom>M</classroom>
+			<time>17:00-20:00</time>
+			<lecturer>Rawat Siripokarpirom</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Anuparp Chiwakumnuan</name>
+		<student-ID>5701012620136</Student-ID>
+		<subject-registed>
+			<subject-name>SOFTWARE ENGINEERING</subject-name>
+			<subject-ID>010123116</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>W</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Damrongrit Setsirichok</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Aruk Pupatee</name>
+		<student-ID>5701012620144</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Banthita Limwilai</name>
+		<student-ID>5701012620101</Student-ID>
+		<subject-registed>
+			<subject-name>STATISTICS FOR COMPUTER ENGINEERING</subject-name>
+			<subject-ID>010123105</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Waranyu Wongseree</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Chalongraj Jensuwan</name>
+		<student-ID>5701012620071</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Chatsada Nganiam</name>
+		<student-ID>5701012630069</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Chayanin Khawsanit</name>
+		<student-ID>5701012620012</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Jirayud Wiriyabanthon</name>
+		<student-ID>5701012630051</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER I</subject-name>
+			<subject-ID>010123217</subject-ID>
+			<weight>3</weight>
+			<date>623</date>
+			<classroom>M</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Sopon Apiromvorakarn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Jittawat Sangsuwan</name>
+		<student-ID>5701012630042</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Jittipong Manus</name>
+		<student-ID>5701012620179</Student-ID>
+		<subject-registed>
+			<subject-name>COMPUTER AND NETWORK SECURITY</subject-name>
+			<subject-ID>010123205</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>17:00-20:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Kanokwan Phoomitiyayopab</name>
+		<student-ID>5701012630018</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER II</subject-name>
+			<subject-ID>010123218</subject-ID>
+			<weight>3</weight>
+			<date>620</date>
+			<classroom>T</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Kitravee Siwatkittisuk</name>
+		<student-ID>5701012620063</Student-ID>
+		<subject-registed>
+			<subject-name>STATISTICS FOR COMPUTER ENGINEERING</subject-name>
+			<subject-ID>010123105</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Waranyu Wongseree</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Natthawut Sibunnan</name>
+		<student-ID>5701012630093</Student-ID>
+		<subject-registed>
+			<subject-name>COMPUTER AND NETWORK SECURITY</subject-name>
+			<subject-ID>010123205</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>17:00-20:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Nawapon Jeanpanichpong</name>
+		<student-ID>5701012630131</Student-ID>
+		<subject-registed>
+			<subject-name>STATISTICS FOR COMPUTER ENGINEERING</subject-name>
+			<subject-ID>010123105</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Waranyu Wongseree</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Suppakan Sattapongsa</name>
+		<student-ID>5701012620128</Student-ID>
+		<subject-registed>
+			<subject-name>SOFTWARE ENGINEERING</subject-name>
+			<subject-ID>010123116</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>W</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Damrongrit Setsirichok</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Tanakorn Ritthongpitug</name>
+		<student-ID>5701012610149</Student-ID>
+		<subject-registed>
+			<subject-name>STATISTICS FOR COMPUTER ENGINEERING</subject-name>
+			<subject-ID>010123105</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Waranyu Wongseree</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Thanaphat Kalaya</name>
+		<student-ID>5701012620098</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER I</subject-name>
+			<subject-ID>010123217</subject-ID>
+			<weight>3</weight>
+			<date>623</date>
+			<classroom>M</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Sopon Apiromvorakarn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Thanawat Kahothong</name>
+		<student-ID>5701012620209</Student-ID>
+		<subject-registed>
+			<subject-name>SELECTED TOPICS IN COMPUTER I</subject-name>
+			<subject-ID>010123217</subject-ID>
+			<weight>3</weight>
+			<date>623</date>
+			<classroom>M</classroom>
+			<time>9:00-12:00</time>
+			<lecturer>Sopon Apiromvorakarn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Warunatid Thongsalee</name>
+		<student-ID>5701012630174</Student-ID>
+		<subject-registed>
+			<subject-name>COMPUTER AND NETWORK SECURITY</subject-name>
+			<subject-ID>010123205</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>H</classroom>
+			<time>17:00-20:00</time>
+			<lecturer>Phongsak Keeratiwintakorn</lecturer>
+		</subject-registed>
+	</student-info>
+	<student-info>
+		<name>Yurananatul Mangalmurti</name>
+		<student-ID>5701012620110</Student-ID>
+		<subject-registed>
+			<subject-name>SOFTWARE ENGINEERING</subject-name>
+			<subject-ID>010123116</subject-ID>
+			<weight>3</weight>
+			<date>607</date>
+			<classroom>W</classroom>
+			<time>13:00-16:00</time>
+			<lecturer>Damrongrit Setsirichok</lecturer>
+		</subject-registed>
+	</student-info>
+</Register-info>
