@@ -3,7 +3,7 @@ import xml
 from xml.dom.minidom import Document
 conn = pymysql.connect(host= "localhost",
                   user="root",
-                  passwd="1234",
+                  passwd="password",
                   db="mydb")
 data = conn.cursor()
 data.execute("""SELECT student.stu_name,student.stu_id,subject.sub_name,subject.sub_id,subject.weight,subject.classroom,subject.date,subject.time,teacher.t_name
