@@ -8,5 +8,7 @@ The python second file "XMLbyMINIDOM.py" is work like first file but when i need
 
 # using
 1.Run script "mydb.sql" to create database(database of student register to subject)
+
 2.Edit connection to database of file python code (host,user,password,DB)
+
 3.Run python code and see the output file
