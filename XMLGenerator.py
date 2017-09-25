@@ -1,7 +1,7 @@
 import pymysql
 conn = pymysql.connect(host= "localhost",
                   user="root",
-                  passwd="20022539",
+                  passwd="passwordhere",
                   db="mydb")
 data = conn.cursor()
 data.execute("""SELECT student.stu_name,student.stu_id,subject.sub_name,
